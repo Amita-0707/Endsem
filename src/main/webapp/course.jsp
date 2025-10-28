@@ -21,7 +21,11 @@
     <header class="bg-white/80 backdrop-blur-md py-6 sticky top-0 z-10 shadow-lg border-b border-teal-200">
       <div class="container mx-auto px-4 flex justify-between items-center">
         <h1 class="text-3xl md:text-4xl font-display font-bold text-teal-600">
+<<<<<<< HEAD
           ✈️ JourneyWise
+=======
+             JourneyWise
+>>>>>>> 3ee84c7be3f2171bcb97b0af2ce3a8331efdb1dc
         </h1>
         <a href="index.html" class="text-teal-500 hover:text-teal-700 font-semibold transition">← Back to Dashboard</a>
       </div>
@@ -30,7 +34,11 @@
     <main class="container mx-auto px-4 py-16">
       <div class="max-w-5xl mx-auto">
         <h2 class="text-3xl font-display font-bold text-gray-700 mb-8 text-center">
+<<<<<<< HEAD
           My Active Bookings 🗓️
+=======
+          My Active Bookings 
+>>>>>>> 3ee84c7be3f2171bcb97b0af2ce3a8331efdb1dc
         </h2>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -125,4 +133,8 @@
       <p>&copy; 2025 JourneyWise. Travel Smart, Live Fully.</p>
     </footer>
   </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 3ee84c7be3f2171bcb97b0af2ce3a8331efdb1dc

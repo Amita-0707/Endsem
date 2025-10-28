@@ -21,7 +21,11 @@
     <header class="bg-white/80 backdrop-blur-md py-6 sticky top-0 z-10 shadow-lg border-b border-teal-200">
       <div class="container mx-auto px-4 flex justify-between items-center">
         <h1 class="text-3xl md:text-4xl font-display font-bold text-teal-600">
+<<<<<<< HEAD
           ✈️ JourneyWise
+=======
+             JourneyWise
+>>>>>>> 3ee84c7be3f2171bcb97b0af2ce3a8331efdb1dc
         </h1>
         <a href="index.html" class="text-teal-500 hover:text-teal-700 font-semibold transition">← Back to Dashboard</a>
       </div>
@@ -30,7 +34,11 @@
     <main class="container mx-auto px-4 py-16">
       <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-display font-bold text-gray-700 mb-4 text-center">
+<<<<<<< HEAD
           Explore Your Next Destination 🌎
+=======
+          Explore Your Next Destination 
+>>>>>>> 3ee84c7be3f2171bcb97b0af2ce3a8331efdb1dc
         </h2>
         <p class="text-center text-lg text-gray-500 mb-10">Discover travel requirements, best times to visit, and popular itineraries.</p>
         
@@ -38,7 +46,11 @@
           
           <div class="bg-white rounded-xl shadow-2xl overflow-hidden transform hover:scale-[1.02] transition-all duration-300 border border-purple-200">
             <div class="h-48 bg-gray-300 relative">
+<<<<<<< HEAD
               <img src="tokyo.jpg" alt="Tokyo cityscape" class="w-full h-full object-cover"/>
+=======
+              <img src="https://images.unsplash.com/photo-1540302824706-0371424b946d?q=80&w=1974&auto=format&fit=crop" alt="Tokyo cityscape" class="w-full h-full object-cover"/>
+>>>>>>> 3ee84c7be3f2171bcb97b0af2ce3a8331efdb1dc
               <span class="absolute top-3 right-3 bg-red-500 text-white text-xs font-bold px-3 py-1 rounded-full shadow-md">HOT</span>
             </div>
             <div class="p-6">
@@ -61,7 +73,11 @@
 
           <div class="bg-white rounded-xl shadow-2xl overflow-hidden transform hover:scale-[1.02] transition-all duration-300 border border-purple-200">
             <div class="h-48 bg-gray-300 relative">
+<<<<<<< HEAD
               <img src="rome.jpeg" alt="Rome Colosseum" class="w-full h-full object-cover"/>
+=======
+              <img src="https://images.unsplash.com/photo-1552832230-c0197ceef638?q=80&w=1958&auto=format&fit=crop" alt="Rome Colosseum" class="w-full h-full object-cover"/>
+>>>>>>> 3ee84c7be3f2171bcb97b0af2ce3a8331efdb1dc
             </div>
             <div class="p-6">
               <h3 class="text-2xl font-display font-bold text-gray-800 mb-2">Rome, Italy 🇮🇹</h3>
@@ -83,7 +99,11 @@
 
           <div class="bg-white rounded-xl shadow-2xl overflow-hidden transform hover:scale-[1.02] transition-all duration-300 border border-purple-200">
             <div class="h-48 bg-gray-300 relative">
+<<<<<<< HEAD
               <img src="cape_town.jpeg" alt="Cape Town Table Mountain" class="w-full h-full object-cover"/>
+=======
+              <img src="https://images.unsplash.com/photo-1563503204900-51c6c06b99de?q=80&w=1974&auto=format&fit=crop" alt="Cape Town Table Mountain" class="w-full h-full object-cover"/>
+>>>>>>> 3ee84c7be3f2171bcb97b0af2ce3a8331efdb1dc
             </div>
             <div class="p-6">
               <h3 class="text-2xl font-display font-bold text-gray-800 mb-2">Cape Town, SA 🇿🇦</h3>
@@ -117,4 +137,8 @@
       <p>&copy; 2025 JourneyWise. Travel Smart, Live Fully.</p>
     </footer>
   </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 3ee84c7be3f2171bcb97b0af2ce3a8331efdb1dc
