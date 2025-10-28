@@ -42,7 +42,7 @@
     <header class="bg-white/80 backdrop-blur-md py-6 sticky top-0 z-10 shadow-lg border-b border-teal-200">
       <div class="container mx-auto px-4 flex justify-between items-center">
         <h1 class="text-3xl md:text-4xl font-display font-bold text-teal-600">
-          ✈️ JourneyWise
+          JourneyWise
         </h1>
         <p class="hidden sm:block text-sm text-gray-500 font-semibold tracking-wider">Plan. Book. Explore.</p>
       </div>
@@ -58,7 +58,7 @@
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto">
         
         <a
-          href="new_trip.jsp"
+          href="about.jsp"
           class="travel-card block bg-white/90 backdrop-blur-sm border border-teal-300 rounded-2xl shadow-xl p-6 transition-all duration-300 hover:shadow-2xl hover:border-teal-400 animate-slideInUp"
           style="animation-delay: 0.2s;"
         >
@@ -72,7 +72,7 @@
         </a>
 
         <a
-          href="bookings.jsp"
+          href="course.jsp"
           class="travel-card block bg-white/90 backdrop-blur-sm border border-sky-300 rounded-2xl shadow-xl p-6 transition-all duration-300 hover:shadow-2xl hover:border-sky-400 animate-slideInUp"
           style="animation-delay: 0.3s;"
         >
@@ -86,7 +86,7 @@
         </a>
 
         <a
-          href="expenses.jsp"
+          href="enroll.jsp"
           class="travel-card block bg-white/90 backdrop-blur-sm border border-orange-300 rounded-2xl shadow-xl p-6 transition-all duration-300 hover:shadow-2xl hover:border-orange-400 animate-slideInUp"
           style="animation-delay: 0.4s;"
         >
@@ -100,7 +100,7 @@
         </a>
         
         <a
-          href="destinations.jsp"
+          href="instructor.jsp"
           class="travel-card block bg-white/90 backdrop-blur-sm border border-purple-300 rounded-2xl shadow-xl p-6 transition-all duration-300 hover:shadow-2xl hover:border-purple-400 md:col-span-2 lg:col-span-1 animate-slideInUp"
           style="animation-delay: 0.5s;"
         >
