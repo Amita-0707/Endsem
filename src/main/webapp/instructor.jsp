@@ -39,7 +39,7 @@ Explore Your Next Destination
           <div class="bg-white rounded-xl shadow-2xl overflow-hidden transform hover:scale-[1.02] transition-all duration-300 border border-purple-200">
             <div class="h-48 bg-gray-300 relative">
 
-              <img src="tokyo.jpg" alt="Tokyo cityscape" class="w-full h-full object-cover"/>
+              <img src="tokyo.jpeg" alt="Tokyo cityscape" class="w-full h-full object-cover"/>
 
               <span class="absolute top-3 right-3 bg-red-500 text-white text-xs font-bold px-3 py-1 rounded-full shadow-md">HOT</span>
             </div>
